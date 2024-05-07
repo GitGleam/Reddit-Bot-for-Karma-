@@ -26,7 +26,7 @@ r/FreeKarmaEverywhere
 
 **Configuration:** Replace placeholder values for Reddit ```API credentials (client_id, client_secret, user_agent, username, password)``` with actual credentials obtained from Reddit's developer portal.
 
-**Customization:** Modify the possible_replies list within the script to include desired responses. Add insightful comments, witty remarks, or relevant contributions to enhance engagement and karma accumulation.
+**Customization:** Modify the possible_replies ```(YOUR_REPLY_1, YOUR_REPLY_2, YOUR_REPLY_3)``` list within the script to include desired responses, you can add how many you want. Add insightful comments, witty remarks, or relevant contributions to enhance engagement and karma accumulation.
 
 **Subreddit Selection:** Specify the subreddit(s) to target for engagement by setting the ```SUBREDDIT_TO_REPLY``` variable in the script. Choose subreddits aligned with the user's interests or areas of expertise for optimal participation.
 
