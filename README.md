@@ -20,7 +20,6 @@ r/UpvoteExchange
 r/KarmaCourt
 r/FreeKarmaEverywhere
 
-<br/><br/>
 **Usage:**
 
 **Requirements:** Ensure you have Python installed on your system. Install the necessary Python package by running:
