@@ -10,7 +10,6 @@ This Python script serves as a Reddit bot designed to accumulate karma by engagi
 **Automatic Post Tracking:** The bot automatically tracks the posts it has replied to, preventing duplicate interactions with the same submissions. By maintaining a record of replied posts, the bot ensures respectful engagement within Reddit communities and minimizes unnecessary repetition.<br/><br/>
 **Customizable Responses:** Users can easily customize the list of possible replies within the script to align with subreddit contexts or engagement strategies. By adding, removing, or modifying responses, users can tailor the bot's behavior to suit specific community dynamics and preferences.
 
-<br/><br/>
 **Popular Subreddits for Karma Exchange:**
 r/FreeKarma4U
 r/KarmaFarming4Pros
