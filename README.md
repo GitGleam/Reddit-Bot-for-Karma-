@@ -4,10 +4,10 @@ This Python script serves as a Reddit bot designed to accumulate karma by engagi
 
 **Key Features:**
 
-**Karma Accumulation:** The bot actively engages with Reddit communities by commenting on new submissions, thereby accruing karma for the associated Reddit account. By strategically participating in discussions and providing valuable contributions, the bot aims to enhance the user's Reddit karma score over time.
-**Direct Credentials Integration:** Unlike conventional bot setups that rely on external configuration files, this bot allows users to input their Reddit API credentials directly into the script. This approach simplifies deployment and ensures secure authentication with the Reddit API.
-**Shuffled Replies:** To maintain engagement and avoid repetitive interactions, the bot shuffles the list of possible replies before selecting one. This randomized approach ensures that the bot's responses remain varied and unpredictable, contributing to a more natural and dynamic interaction experience.
-**Automatic Post Tracking:** The bot automatically tracks the posts it has replied to, preventing duplicate interactions with the same submissions. By maintaining a record of replied posts, the bot ensures respectful engagement within Reddit communities and minimizes unnecessary repetition.
+**Karma Accumulation:** The bot actively engages with Reddit communities by commenting on new submissions, thereby accruing karma for the associated Reddit account. By strategically participating in discussions and providing valuable contributions, the bot aims to enhance the user's Reddit karma score over time.<br/><br/>
+**Direct Credentials Integration:** Unlike conventional bot setups that rely on external configuration files, this bot allows users to input their Reddit API credentials directly into the script. This approach simplifies deployment and ensures secure authentication with the Reddit API.<br/><br/>
+**Shuffled Replies:** To maintain engagement and avoid repetitive interactions, the bot shuffles the list of possible replies before selecting one. This randomized approach ensures that the bot's responses remain varied and unpredictable, contributing to a more natural and dynamic interaction experience.<br/><br/>
+**Automatic Post Tracking:** The bot automatically tracks the posts it has replied to, preventing duplicate interactions with the same submissions. By maintaining a record of replied posts, the bot ensures respectful engagement within Reddit communities and minimizes unnecessary repetition.<br/><br/>
 **Customizable Responses:** Users can easily customize the list of possible replies within the script to align with subreddit contexts or engagement strategies. By adding, removing, or modifying responses, users can tailor the bot's behavior to suit specific community dynamics and preferences.
 
 **Popular Subreddits for Karma Exchange:**
