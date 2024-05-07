@@ -1,4 +1,4 @@
-# PRAW Reddit Bot for Karma Accumulation with Direct Credentials and Shuffled Replies
+# "KarmaKrafter" Reddit Bot for Karma Accumulation with Direct Credentials and Shuffled Replies
 
 This Python script serves as a Reddit bot designed to accumulate karma by engaging with Reddit communities. Built using the PRAW (Python Reddit API Wrapper) library, the bot integrates Reddit API credentials directly into the script for seamless authentication. In addition to its primary function of karma accumulation, the bot also features shuffled replies to provide diverse and engaging interactions.
 <br/><br/>
