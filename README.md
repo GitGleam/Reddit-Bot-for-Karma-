@@ -3,6 +3,7 @@
 This Python script serves as a Reddit bot designed to accumulate karma by engaging with Reddit communities. Built using the PRAW (Python Reddit API Wrapper) library, the bot integrates Reddit API credentials directly into the script for seamless authentication. In addition to its primary function of karma accumulation, the bot also features shuffled replies to provide diverse and engaging interactions.
 
 **Key Features:**
+
 **Karma Accumulation:** The bot actively engages with Reddit communities by commenting on new submissions, thereby accruing karma for the associated Reddit account. By strategically participating in discussions and providing valuable contributions, the bot aims to enhance the user's Reddit karma score over time.<br/><br/>
 **Direct Credentials Integration:** Unlike conventional bot setups that rely on external configuration files, this bot allows users to input their Reddit API credentials directly into the script. This approach simplifies deployment and ensures secure authentication with the Reddit API.<br/><br/>
 **Shuffled Replies:** To maintain engagement and avoid repetitive interactions, the bot shuffles the list of possible replies before selecting one. This randomized approach ensures that the bot's responses remain varied and unpredictable, contributing to a more natural and dynamic interaction experience.<br/><br/>
@@ -21,6 +22,7 @@ r/FreeKarmaEverywhere
 
 
 **Usage:**
+
 **Requirements:** Ensure you have Python installed on your system. Install the necessary Python package by running:
 ```pip install praw```
 
